@@ -1,0 +1,7 @@
+Flask==2.1.0
+Flask-MySQLdb==1.0.1
+pyjwt==2.0.0
+greenlet==1.1.0
+datetime
+uuid
+Flask-SQLAlchemy
